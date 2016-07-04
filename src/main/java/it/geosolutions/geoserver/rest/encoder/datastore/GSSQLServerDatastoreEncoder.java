@@ -27,7 +27,7 @@ package it.geosolutions.geoserver.rest.encoder.datastore;
 /**
  * Encoder for a {@value #TYPE} datastore.
  *  
- * @author Kenyo903
+ * @author Kenyo.utopika@gmail.com
  */
 public class GSSQLServerDatastoreEncoder extends GSAbstractDatastoreEncoder {
 
